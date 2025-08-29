@@ -6,7 +6,10 @@ Turning raw data into actionable insights 📊 | Leading high-performing analyti
 Currently managing analytics at Threads Styling and building the next generation of data products.
 
 🔧 Tech Stack: SQL, Python, dbt, Airflow, BigQuery, Snowflake, Looker, Tableau
+
 📈 Focus Areas: Data modeling, pipeline automation, self-service analytics
+
 🎯 Current Projects: Implementing modern data stack, building real-time dashboards
+
 📚 Always Learning: DataOps, data mesh architectures, advanced visualization techniques
 
